@@ -15,3 +15,9 @@ PHP はあまりわかりません。
 
 * GitHub アカウント名 (例: @okkez)
   * リポジトリのURL (例: https://github.com/okkez/okkez-sezemi-2014-readable-code-2)
+
+* @klursh
+  * https://github.com/klursh/klursh-sezemi-2014-readable-code-2
+* @tkokamo
+  * https://github.com/tkokamo/tkokamo-sezemi-2014-readable-code-2
+
